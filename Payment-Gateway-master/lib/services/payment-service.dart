@@ -12,14 +12,16 @@ class StripeTransactionResponse {
 class StripeService {
   static String apiBase = 'https://api.stripe.com/v1';
   static String paymentApiUrl = '${StripeService.apiBase}/payment_intents';
-  static String secret = 'your_api_secret';
+  static String secret =
+      'sk_test_51IcC6QGh4scEpVsRBiNeWxcTutid0GnRT2G1eGjl5A69aPrATp4BODjyJPKHbABK33u4Djuibn1aX0sjnqRKdN4n007VI1dyaC';
   static Map<String, String> headers = {
     'Authorization': 'Bearer ${StripeService.secret}',
     'Content-Type': 'application/x-www-form-urlencoded'
   };
   static init() {
     StripePayment.setOptions(StripeOptions(
-        publishableKey: "your_api_publishable_key",
+        publishableKey:
+            "pk_test_51IcC6QGh4scEpVsRjwvIgnsZRDayvxVzJXIRGccn9vs6RFfKEK31Qn7xWbJSYnWS286kmgkcARaAyGcgDWUdYodM001QNtQ5tl",
         merchantId: "Test",
         androidPayMode: 'test'));
   }
