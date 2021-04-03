@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "303448781458",
+    "firebase_url": "https://e-consultant-fc2ee-default-rtdb.firebaseio.com",
+    "project_id": "e-consultant-fc2ee",
+    "storage_bucket": "e-consultant-fc2ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303448781458:android:fbc185210f03230bae2c4b",
+        "android_client_info": {
+          "package_name": "com.econsultent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhVOGdc1H8p5EDoB9OubjHgcpo1xbb90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303448781458:android:38e41ceff5e55611ae2c4b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_stripe_payments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhVOGdc1H8p5EDoB9OubjHgcpo1xbb90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303448781458:android:5b84858462381410ae2c4b",
+        "android_client_info": {
+          "package_name": "com.example.payment_gateway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhVOGdc1H8p5EDoB9OubjHgcpo1xbb90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303448781458:android:6e8b10ec5b457aecae2c4b",
+        "android_client_info": {
+          "package_name": "com.pamoda.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhVOGdc1H8p5EDoB9OubjHgcpo1xbb90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303448781458-mj5jgnbflh8tgjtc6hvtkf83kc08bjhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
